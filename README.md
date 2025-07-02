@@ -8,11 +8,9 @@ Este repositorio foi criado no contexto do trabalho final da cadeira Gestão de 
 Como PMIS utilizamos a ferramenta sharePoint da Microsoft.
 
 ### Ferramentas
-- **SharePoint**  
-  Plataforma de colaboração e gestão de documentos da Microsoft, utilizada para centralizar e partilhar todos os ficheiros do projeto.
+- **SharePoint**:Plataforma de colaboração e gestão de documentos da Microsoft, utilizada para centralizar e partilhar todos os ficheiros do projeto.
 
-- **XMind**  
-  Ferramenta de mind mapping para brainstorming e organização visual de ideias e requisitos.
+- **XMind**: Ferramenta de mind mapping para brainstorming e organização visual de ideias e requisitos.
 
 ### Links
 
